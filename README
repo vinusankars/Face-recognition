@@ -1,0 +1,18 @@
+README
+======
+
+data folder has the dataset
+	s1 folder has class 1 images
+	40 classes, 10 images each
+	Link: https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
+
+Assignment1.pynb
+Jupyter notebook file for Python 3.6
+Run it to get results
+Please feel free to explore variable values by printing them out
+
+PDF file
+Report for the assignment 1
+
+HTML file
+html version of the notebook
